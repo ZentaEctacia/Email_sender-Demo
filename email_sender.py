@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 
 # Email configuration
 sender_email = "zentaectacia@gmail.com"
-receiver_email ="burhan.azeem.uet@gmail.com"
+receiver_email ="saba.nazir.2210@gmail.com"
 password = "fkay jmaj ivfy vfyo"  # Or app password if 2FA is enabled
 subject = "testing"
 body = "Hi this is the checking mail."
